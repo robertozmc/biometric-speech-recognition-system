@@ -23,7 +23,7 @@ Fragments of *The Snow Queen* by **Hans Christian Andersen** (Polish translation
 
 ## Screenshots
 
-![Main view][main] ![Registration][registration] ![Identification][identification]
+<img src="screenshots/main.PNG" alt="Main view" width="250" height="314"> <img src="screenshots/registration.PNG" alt="Registration" width="250" height="314"> <img src="screenshots/identification.PNG" alt="Identification" width="250" height="314">
 
 ## Demo
 
@@ -35,6 +35,3 @@ Fragments of *The Snow Queen* by **Hans Christian Andersen** (Polish translation
 - [Recognito : Text Independent Speaker Recognition in Java](https://github.com/amaurycrickx/recognito) | Apache License 2.0
 
 [logo]: images/logo.png "Biometric Speech Recognition System"
-[main]: screenshots/main.png "Main view"
-[registration]: screenshots/registration.png "Registration"
-[identification]: screenshots/identification.png "Identification"
