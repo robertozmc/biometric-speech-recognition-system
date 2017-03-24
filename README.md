@@ -2,7 +2,7 @@
 
 # Biometric Speech Recognition System
 
-![License][license-url] ![Version][version-url] ![Maintenance][maintenance-url] ![Language][language-url]
+![Language][language-url] ![License][license-url] ![Version][version-url] ![Done][done-url] ![Maintenance][maintenance-url] 
 
 ### A biometric system for person identification by voice recognition
 
@@ -41,3 +41,4 @@ Fragments of *The Snow Queen* by **Hans Christian Andersen** (Polish translation
 [version-url]: https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat "Version"
 [maintenance-url]: https://img.shields.io/maintenance/no/2015.svg?style=flat "Maintenance"
 [language-url]: https://img.shields.io/badge/language-Java-lightgrey.svg?style=flat "Language"
+[done-url]: https://img.shields.io/badge/done-11.2015-yellow.svg?style=flat "Done"
