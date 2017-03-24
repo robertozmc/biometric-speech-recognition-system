@@ -2,7 +2,7 @@
 
 # Biometric Speech Recognition System
 
-![Language][language-url] ![License][license-url] ![Version][version-url] ![Done][done-url] ![Maintenance][maintenance-url] 
+![Language][language-url] ![License][license-url] ![Version][version-url] ![Done][done-url] ![Maintenance][maintenance-url]
 
 ### A biometric system for person identification by voice recognition
 
@@ -25,14 +25,14 @@ Fragments of *The Snow Queen* by **Hans Christian Andersen** (Polish translation
 
 ## Screenshots
 
-<img src="screenshots/main.PNG" alt="Main view" width="250" height="314"> <img src="screenshots/registration.PNG" alt="Registration" width="250" height="314"> <img src="screenshots/identification.PNG" alt="Identification" width="250" height="314">
+<img src="screenshots/main.PNG" alt="Main view" width="250" height="314" /> <img src="screenshots/registration.PNG" alt="Registration" width="250" height="314" /> <img src="screenshots/identification.PNG" alt="Identification" width="250" height="314" />
 
 ## Demo
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=oWzyNVCM_hY" target="_blank"><img src="http://img.youtube.com/vi/oWzyNVCM_hY/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oWzyNVCM_hY" target="_blank"><img src="http://img.youtube.com/vi/oWzyNVCM_hY/0.jpg" alt="Demo" width="240" height="180" border="10" />
 </a>
 
-## Used libraries:
+## Used libraries
 
 - [Recognito : Text Independent Speaker Recognition in Java](https://github.com/amaurycrickx/recognito) | Apache License 2.0
 
