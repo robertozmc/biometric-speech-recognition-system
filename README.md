@@ -2,6 +2,8 @@
 
 # Biometric Speech Recognition System
 
+![License][license-url] ![Version][version-url] ![Maintenance][maintenance-url] ![Language][language-url]
+
 ### A biometric system for person identification by voice recognition
 
 ##### This project was developed for *Bases of Biometry* classes at Electronics, Telecommunications and Informatics faculty of Gdańsk University of Technology. It took approximately 2 days to accomplish. Although three people participated in the project, the software was made only by me.
@@ -35,3 +37,7 @@ Fragments of *The Snow Queen* by **Hans Christian Andersen** (Polish translation
 - [Recognito : Text Independent Speaker Recognition in Java](https://github.com/amaurycrickx/recognito) | Apache License 2.0
 
 [logo]: images/logo.png "Biometric Speech Recognition System"
+[license-url]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat "License"
+[version-url]: https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat "Version"
+[maintenance-url]: https://img.shields.io/maintenance/no/2015.svg?style=flat "Maintenance"
+[language-url]: https://img.shields.io/badge/language-Java-lightgrey.svg?style=flat "Language"
